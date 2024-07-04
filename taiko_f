@@ -17,7 +17,12 @@ pids
 *.pid.lock
 # Diagnostic reports (https://nodejs.org/api/report.html)
 report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
-
+# Coverage directory used by tools like istanbul
+coverage
+*.lcov
+# Coverage directory used by tools like istanbul
+# nyc test coverage
+.nyc_output
 # Runtime data
 pids
 *.pid

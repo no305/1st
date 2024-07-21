@@ -31,6 +31,8 @@ pids
 *.pid
 *.seed
 *.pid.lock
+lerna-debug.log*
+lerna-debug.log*
 
 # Directory fo*.pid
 *.seed
